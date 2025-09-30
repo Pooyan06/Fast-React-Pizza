@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Sisakht",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-08-09T16:54:27.220Z",
+      "notes": "",
+      "position": {
+        "lat": "30.861296074779165",
+        "lng": "51.45694077014924"
+      },
+      "id": 98443198
+    }
+  ]
+}
